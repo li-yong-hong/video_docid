@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="video_docid:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="video_docid-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="video_docid:war exploded" />
+    </root>
+  </artifact>
+</component>

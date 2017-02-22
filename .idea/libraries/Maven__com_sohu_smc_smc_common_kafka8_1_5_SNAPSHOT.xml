@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sohu.smc:smc-common-kafka8:1.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/smc/smc-common-kafka8/1.5-SNAPSHOT/smc-common-kafka8-1.5-20150107.030750-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/smc/smc-common-kafka8/1.5-SNAPSHOT/smc-common-kafka8-1.5-20150107.030750-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/smc/smc-common-kafka8/1.5-SNAPSHOT/smc-common-kafka8-1.5-20150107.030750-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

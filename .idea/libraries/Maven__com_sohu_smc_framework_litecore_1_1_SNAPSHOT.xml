@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sohu.smc:framework-litecore:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/smc/framework-litecore/1.1-SNAPSHOT/framework-litecore-1.1-20131125.110133-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/smc/framework-litecore/1.1-SNAPSHOT/framework-litecore-1.1-20131125.110133-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/smc/framework-litecore/1.1-SNAPSHOT/framework-litecore-1.1-20131125.110133-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
